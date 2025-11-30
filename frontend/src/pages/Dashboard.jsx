@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 
+
 class SensorData {
   constructor(name, unit, min, max) {
     this.name = name;
